@@ -1,0 +1,15 @@
+{
+    "name": "bayuawe/indoflix",
+    "description": "Deskripsi proyek Anda",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Nama Anda",
+            "email": "email@anda.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.0"
+
+    }
+}
